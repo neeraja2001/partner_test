@@ -1,0 +1,65 @@
+{
+  "cookies": [
+    {
+      "name": "AUTH_SESSION_ID",
+      "value": "f6307aed-6557-41ec-acbc-04c416386c79.Slave:server-two",
+      "domain": "auth.sify.net",
+      "path": "/auth/realms/sify-model-realm/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AUTH_SESSION_ID_LEGACY",
+      "value": "f6307aed-6557-41ec-acbc-04c416386c79.Slave:server-two",
+      "domain": "auth.sify.net",
+      "path": "/auth/realms/sify-model-realm/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "KEYCLOAK_IDENTITY",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI5ZWYwN2E3Mi0xMTU3LTQ0ZWQtOTk2MS00NWRhNTlhYTk2ODEifQ.eyJleHAiOjE3MzgxNjgxNzQsImlhdCI6MTczODEzMjE3NCwianRpIjoiNjljYTc2YjctZWVmMi00YmIwLWE3NDEtMGUzMTUwYTgyNjdmIiwiaXNzIjoiaHR0cHM6Ly9hdXRoLnNpZnkubmV0L2F1dGgvcmVhbG1zL3NpZnktbW9kZWwtcmVhbG0iLCJzdWIiOiJiMDg2Y2FjZS0wMzcxLTQ5MjItYTEzNi0zNTJlY2Y5YmZjYWIiLCJ0eXAiOiJTZXJpYWxpemVkLUlEIiwic2Vzc2lvbl9zdGF0ZSI6ImY2MzA3YWVkLTY1NTctNDFlYy1hY2JjLTA0YzQxNjM4NmM3OSIsInNpZCI6ImY2MzA3YWVkLTY1NTctNDFlYy1hY2JjLTA0YzQxNjM4NmM3OSIsInN0YXRlX2NoZWNrZXIiOiI0bEx5WmVUYXJ3dmVYbUotNnRBa2pBOG15VEdjQWFGazNLMG1EVVFuVEpRIn0.cQoUb_pjgR_B3GtbkNX-dxg5Am8YMrzf7O3vEYxvc7A",
+      "domain": "auth.sify.net",
+      "path": "/auth/realms/sify-model-realm/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KEYCLOAK_IDENTITY_LEGACY",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI5ZWYwN2E3Mi0xMTU3LTQ0ZWQtOTk2MS00NWRhNTlhYTk2ODEifQ.eyJleHAiOjE3MzgxNjgxNzQsImlhdCI6MTczODEzMjE3NCwianRpIjoiNjljYTc2YjctZWVmMi00YmIwLWE3NDEtMGUzMTUwYTgyNjdmIiwiaXNzIjoiaHR0cHM6Ly9hdXRoLnNpZnkubmV0L2F1dGgvcmVhbG1zL3NpZnktbW9kZWwtcmVhbG0iLCJzdWIiOiJiMDg2Y2FjZS0wMzcxLTQ5MjItYTEzNi0zNTJlY2Y5YmZjYWIiLCJ0eXAiOiJTZXJpYWxpemVkLUlEIiwic2Vzc2lvbl9zdGF0ZSI6ImY2MzA3YWVkLTY1NTctNDFlYy1hY2JjLTA0YzQxNjM4NmM3OSIsInNpZCI6ImY2MzA3YWVkLTY1NTctNDFlYy1hY2JjLTA0YzQxNjM4NmM3OSIsInN0YXRlX2NoZWNrZXIiOiI0bEx5WmVUYXJ3dmVYbUotNnRBa2pBOG15VEdjQWFGazNLMG1EVVFuVEpRIn0.cQoUb_pjgR_B3GtbkNX-dxg5Am8YMrzf7O3vEYxvc7A",
+      "domain": "auth.sify.net",
+      "path": "/auth/realms/sify-model-realm/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "KEYCLOAK_SESSION",
+      "value": "sify-model-realm/b086cace-0371-4922-a136-352ecf9bfcab/f6307aed-6557-41ec-acbc-04c416386c79",
+      "domain": "auth.sify.net",
+      "path": "/auth/realms/sify-model-realm/",
+      "expires": 1738168174.758519,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KEYCLOAK_SESSION_LEGACY",
+      "value": "sify-model-realm/b086cace-0371-4922-a136-352ecf9bfcab/f6307aed-6557-41ec-acbc-04c416386c79",
+      "domain": "auth.sify.net",
+      "path": "/auth/realms/sify-model-realm/",
+      "expires": 1738168174.758611,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}

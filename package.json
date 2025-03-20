@@ -1,0 +1,23 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-proposal-decorators": "^7.25.9",
+    "@types/node": "^22.10.10"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.50.1",
+    "async-lock": "^1.4.1",
+    "axios": "^1.7.9",
+    "cron": "^4.0.0",
+    "exceljs": "^4.4.0",
+    "playwright": "^1.50.1",
+    "xlsx": "^0.18.5"
+  }
+}
